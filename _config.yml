@@ -1,3 +1,4 @@
+theme: jekyll-theme-yat
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
-remote_theme: "jeffreytse/jekyll-theme-yat" 
+# remote_theme: "jeffreytse/jekyll-theme-yat" 
